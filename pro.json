@@ -1,1 +1,7 @@
-{"pro_required": false, "store_id": 523948, "product_id": 1527567, "buy_url": "https://boinkrl.lemonsqueezy.com/checkout/buy/8055549f-4e5e-490c-87d3-4521a2e936a1"}
+{
+  "pro_required": true,
+  "organization_id": "8ee69c20-e881-4639-8312-cde9f9e7401e",
+  "benefit_id": "",
+  "buy_url": "https://buy.polar.sh/polar_cl_sYzdmHdyL5Fa5zxZ7VlADk76Cp6Pz6Wdb0M9x46V9CY",
+  "portal_url": "https://polar.sh/boink-plugins/portal"
+}
