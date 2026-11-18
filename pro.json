@@ -3,6 +3,7 @@
   "organization_id": "8ee69c20-e881-4639-8312-cde9f9e7401e",
   "benefit_id": "",
   "buy_url": "https://buy.polar.sh/polar_cl_sYzdmHdyL5Fa5zxZ7VlADk76Cp6Pz6Wdb0M9x46V9CY",
-  "portal_url": "https://polar.sh/boink-plugins/portal"
+  "portal_url": "https://polar.sh/boink-plugins/portal",
   "twitch_client_id": "7t335uhqufcpctnrf1ejr3rha5cwj4",
+  "shared_relay": "wss://boink-relay.boink.workers.dev"
 }
